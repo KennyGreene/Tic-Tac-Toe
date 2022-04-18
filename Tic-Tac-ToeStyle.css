@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
+
+
+
+.container{
+    color:white;
+    text-align: center;
+    
+    font-family: 'DM Serif Display', sans-serif;
+}
+html{
+    background-image:url('Science_nightsky_462555821.jpg');
+  background-color: #cccccc;
+  background-attachment: fixed;
+        background-size: 100% 100%;
+        Background-repeat: no-repeat;
+}
+.container2{
+    display:grid;
+    grid-template-columns:auto auto auto;
+    padding: solid black 10px;
+    margin-left: 39%;
+    margin-right: 25%;
+    width:20vw;
+    height:35vh;
+    font-family: 'DM Serif Display', sans-serif;
+    
+   
+}
+
+.square{
+    text-align: center;
+    font-size: 2em;
+    background-color: transparent;
+    color:white;
+    font-family: 'DM Serif Display', sans-serif;
+}
+
+#startButton{
+    height: 30px;
+    width: 100px;
+    font-family: 'DM Serif Display', sans-serif;
+
+}
+
+#message{
+    text-align: center;
+    font-size: 2em;
+   font-family: 'DM Serif Display', sans-serif;
+   color: white;
+}
